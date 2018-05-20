@@ -58,7 +58,7 @@ Firebase atau FCM banyak digunakan saat ini karena sangat berhubungan dengan not
     
 6. Pilih toolsbar 'CloudMessaging' dan dapatkan 'Serverkey'
 
-    ![alt text](http://res.cloudinary.com/rezamaskadi/image/upload/v1526856384/how-to6.png)
+    ![alt text](http://res.cloudinary.com/rezamaskadi/image/upload/v1526859509/how-to6.png)
 
 ### How-to-implement on NodeJs (Menggunakan framework GITS)
 1. Pertama instal modules fcm-push dengan melakukan 'npm install fcm-push --save'
