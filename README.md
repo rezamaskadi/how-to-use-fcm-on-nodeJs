@@ -48,7 +48,7 @@ Firebase atau FCM banyak digunakan saat ini karena sangat berhubungan dengan not
     
 4. Masuk ke dalam project yang sudah dibuat
 
-    ![alt text](http://res.cloudinary.com/rezamaskadi/image/upload/v1526856385/how-to3.png)
+    ![alt text](http://res.cloudinary.com/rezamaskadi/image/upload/v1526942034/how-to3-1.png)
 
 5. Masuk pada halaman setting dengan klik pada icon setting lalu pilih option project setting
 
