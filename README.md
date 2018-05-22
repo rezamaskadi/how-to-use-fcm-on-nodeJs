@@ -4,7 +4,8 @@ How to setup FCM on nodeJs using fcm-push modules
 
 # Created by ?
 
-Muhamad Reza Anugrah Maskadi, CS divisi Web
+Muhamad Reza Anugrah Maskadi, Technical Lead Divisi Web
+PT. GITS Indonesia
 
 # Created at ?
 
